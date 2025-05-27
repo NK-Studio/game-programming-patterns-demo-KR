@@ -10,7 +10,7 @@ Unity로 작업할 때, 바퀴를 새로 발명할 필요는 없습니다. 이�
 
 이 예제들은 전자책 **[Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)**에서 발췌한 것입니다. 이 100페이지 분량의 가이드는 해당 데모에서 다루는 디자인 패턴을 더 자세히 설명하며, **SOLID 원칙**, **KISS**, **DRY** 같은 핵심 프로그래밍 개념도 함께 다룹니다.
 
-📘 전체 전자책 다운로드: [전자책 다운로드 링크](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)
+📘 전체 전자책 다운로드: [전자책 다운로드 링크](https://unity.com/kr/resources/level-up-your-code-with-game-programming-patterns)
 
 ![게임 프로그래밍 패턴 가이드](https://user-images.githubusercontent.com/104561943/232472515-e84afe62-6b54-47e9-b98b-f36e84d2982d.jpg)
 
